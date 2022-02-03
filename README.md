@@ -10,14 +10,15 @@ const Deniz_Umut_Dereli = {
   },
 };
 ```
-<img src="./c.svg" alt="C" width="60" align="left"/>
-<img src="./c++.svg" alt="C++" width="60" align="left"/>
-<img src="./python.svg" alt="Python" width="60" align="left"/>
+### Languages
+<img src="./c.svg" alt="C" width="48" align="left"/>
+<img src="./c++.svg" alt="C++" width="48" align="left"/>
+<img src="./python.svg" alt="Python" width="48" align="left"/>
 <img src="./php.svg" alt="PHP" width="80" align="left"/>
-<img src="./node.svg" alt="Nodejs width="60" align="left"/>
-<img src="./typescript.svg" alt="Typescript" width="60" align="left"/>
-<img src="./javascript.svg" alt="Javacript" width="60" align="left"/>
-<img src="./angular.svg" alt="Angular" width="60" align="left"/>
-<img src="./react.svg" alt="React" width="60" align="left"/>
-<img src="./vue.svg" alt="VueJS" width="60" align="left"/>
-<img src="./nest.svg" alt="NestJS" width="60"/>
+<img src="./node.svg" alt="Nodejs width="48" align="left"/>
+<img src="./typescript.svg" alt="Typescript" width="48" align="left"/>
+<img src="./javascript.svg" alt="Javacript" width="48" align="left"/>
+<img src="./angular.svg" alt="Angular" width="48" align="left"/>
+<img src="./react.svg" alt="React" width="48" align="left"/>
+<img src="./vue.svg" alt="VueJS" width="48" align="left"/>
+<img src="./nest.svg" alt="NestJS" width="48"/>
