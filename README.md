@@ -10,7 +10,6 @@ const Deniz_Umut_Dereli = {
   },
 };
 ```
-### Languages
 <img src="./c.svg" alt="C" width="48" align="left"/>
 <img src="./c++.svg" alt="C++" width="42" align="left"/>
 <img src="./python.svg" alt="Python" width="48" align="left"/>
