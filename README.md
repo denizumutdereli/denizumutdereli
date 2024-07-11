@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-```js
-const Deniz_Umut_Dereli = {
-  title:
-    "Senior Blockchain/Server/Software/Database Architect",
-  contact: {
-    linkedin: "denizumutdereli",
-    email: "denizumutdereli@gmail.com",
-  },
-};
-```
+```solidity
+struct BlockchainArchitect {
+    address identity;
+    bytes32 title;
+    bytes32 focus;
+    uint256 experienceYears;
+    bool openToCollaboration;
+}
+
+BlockchainArchitect public constant PROFILE = BlockchainArchitect({
+    identity: 0xdenizumutdereli,
+    title: "Senior Blockchain Architect",
+    focus: "DeFi protocols, DEX ecosystem",
+    experienceYears: 28,
+    openToCollaboration: true
+});
