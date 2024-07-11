@@ -11,8 +11,8 @@ struct BlockchainArchitect {
 
 BlockchainArchitect public constant PROFILE = BlockchainArchitect({
     identity: 0xdenizumutdereli,
-    title: "Senior Blockchain Architect",
-    focus: "DeFi protocols, DEX ecosystem",
+    title: bytes32("Senior Blockchain Architect"),
+    focus: bytes32("DeFi protocols, DEX ecosystem"),
     experienceYears: 28,
     openToCollaboration: true
 });
